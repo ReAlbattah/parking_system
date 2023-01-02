@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "755741657646",
+    "project_id": "parkingsystem-627d7",
+    "storage_bucket": "parkingsystem-627d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755741657646:android:7d1afb810569aaf00fedbf",
+        "android_client_info": {
+          "package_name": "com.example.parking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755741657646-6c20v7gtoe2bjl3n384dk4ri25mhhgbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-QuraRiN1CZexCRJQQhNr4J8QuJxeLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755741657646-6c20v7gtoe2bjl3n384dk4ri25mhhgbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755741657646-lnqtpor6lckssd993nt7d5spflf13fce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkingSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -171,6 +171,7 @@ class AuthController extends GetxController {
         snackPosition: SnackPosition.TOP,
         backgroundColor: Colors.red,
       );
+      print(error);
     }
   }
 

@@ -1,4 +1,5 @@
 import 'package:date_time_picker/date_time_picker.dart';
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
@@ -120,6 +121,7 @@ class AddReservationsScreen extends StatelessWidget {
               AuthButton(
                   onPressed: () {
                     Get.offNamed(Routes.homeScreen);
+                    FirebaseCrashlytics.instance.crash();
                   },
                   text: 'Save')
             ],
