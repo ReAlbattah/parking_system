@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>185787262728-nn3dvpo0ho9o8fmgq6s8do5t3qsp84eg.apps.googleusercontent.com</string>
+	<string>755741657646-lnqtpor6lckssd993nt7d5spflf13fce.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.185787262728-nn3dvpo0ho9o8fmgq6s8do5t3qsp84eg</string>
+	<string>com.googleusercontent.apps.755741657646-lnqtpor6lckssd993nt7d5spflf13fce</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA0lSjcTuLN8H39tyAZLg4aUiHVc8bEdS0</string>
+	<string>AIzaSyBhW_xgq_JODUll5BiSZATqIhe4mEBtVhc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>185787262728</string>
+	<string>755741657646</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.parkingSystem</string>
 	<key>PROJECT_ID</key>
-	<string>parking-system-f2a4d</string>
+	<string>parkingsystem-627d7</string>
 	<key>STORAGE_BUCKET</key>
-	<string>parking-system-f2a4d.appspot.com</string>
+	<string>parkingsystem-627d7.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:185787262728:ios:21bc8ddd167318ae232ebd</string>
+	<string>1:755741657646:ios:936664225a05bd9b0fedbf</string>
 </dict>
 </plist>
